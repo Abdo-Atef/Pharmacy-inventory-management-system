@@ -1,6 +1,26 @@
-## Project overview
+# Pharmacy Inventory Management System
+
+it's a web-based system built using React and node.js
+
+## Features
+
+products and categories pages, inventory page, expired and empty products pages, purchases, invoices, suppliers, managing users, sign in pages.
+
+## Project Overview
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/T1TxiPJPPQg/0.jpg)](https://www.youtube.com/watch?v=T1TxiPJPPQg)
+
+
+## Technologies and Tools Used
+
+- React.js React-Router-Dom
+- Bootstrap5
+- Hooks and functional components
+- Redux-Toolkit
+- Formik, Yup
+- Axios
+- React-Helmet
+- React-Toastify
 
 ## How to run
 
